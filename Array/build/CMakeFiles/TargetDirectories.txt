@@ -1,0 +1,2 @@
+/home/apollo/MOOC/Cpp/HSB_version/Array/build/CMakeFiles/main_test.dir
+/home/apollo/MOOC/Cpp/HSB_version/Array/build/CMakeFiles/question1.dir

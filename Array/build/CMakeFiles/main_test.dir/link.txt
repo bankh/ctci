@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/main_test.dir/src/main.cpp.o  -o main_test -rdynamic libquestion1.a 

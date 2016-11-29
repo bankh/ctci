@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/apollo/MOOC/Cpp/HSB_version/Array/build",
+  "command": "/usr/bin/c++    -g -I/home/apollo/MOOC/Cpp/HSB_version/Array/include    -o CMakeFiles/main_test.dir/src/main.cpp.o -c /home/apollo/MOOC/Cpp/HSB_version/Array/src/main.cpp",
+  "file": "/home/apollo/MOOC/Cpp/HSB_version/Array/src/main.cpp"
+},
+{
+  "directory": "/home/apollo/MOOC/Cpp/HSB_version/Array/build",
+  "command": "/usr/bin/c++    -g -I/home/apollo/MOOC/Cpp/HSB_version/Array/include    -o CMakeFiles/question1.dir/src/Question1_1.cpp.o -c /home/apollo/MOOC/Cpp/HSB_version/Array/src/Question1_1.cpp",
+  "file": "/home/apollo/MOOC/Cpp/HSB_version/Array/src/Question1_1.cpp"
+}
+]

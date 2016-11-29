@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Question1_1.h
+string
+-
+
+/home/apollo/MOOC/Cpp/HSB_version/Array/src/Question1_1.cpp
+iostream
+-
+string
+-
+Question1_1.h
+/home/apollo/MOOC/Cpp/HSB_version/Array/src/Question1_1.h
+
